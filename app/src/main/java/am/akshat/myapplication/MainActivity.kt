@@ -1,4 +1,4 @@
-package com.beginner.translite
+package am.akshat.myapplication
 
 import am.akshat.myapplication.R
 import android.annotation.SuppressLint
