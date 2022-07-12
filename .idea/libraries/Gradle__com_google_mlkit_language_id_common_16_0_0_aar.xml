@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.mlkit:language-id-common:16.0.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-3/07cca7463259778778b6307fd0d3b671/transformed/language-id-common-16.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-3/07cca7463259778778b6307fd0d3b671/transformed/language-id-common-16.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-3/07cca7463259778778b6307fd0d3b671/transformed/language-id-common-16.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.google.mlkit/language-id-common/16.0.0/fc91c1bca0027682e880ef1221d1805d11e66344/language-id-common-16.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
