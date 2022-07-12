@@ -13,6 +13,7 @@
           <stringArguments>
             <stringArg name="classpath">
               <args>
+                <arg>$MODULE_DIR$/../../../app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/f838feb96858e568ef4e7430e132c541/transformed/navigation-ui-ktx-2.5.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/545afa8d0b3b96837bcff1ae94bc3b52/transformed/navigation-ui-2.5.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/db75ae99a1ffa5d9c83920f172a5597b/transformed/material-1.6.1-api.jar</arg>
@@ -23,24 +24,33 @@
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/8f038e41fa40e9b7dca3431ef5dcda60/transformed/firebase-ml-natural-language-22.0.1-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/c52e69507958900dcf89cac8d2143e84/transformed/translate-17.0.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/3254256831e8f911fb74527473e99427/transformed/language-id-17.0.4-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/290e490ba1dd3866690919ab47f46e85/transformed/firebase-ml-vision-24.1.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/5ede91fc47ebd5304e2b4f3b87ce58e8/transformed/firebase-ml-natural-language-translate-22.0.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/f94c464e262166020fc3eefae07b8648/transformed/firebase-ml-common-22.1.2-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/a55621e7b82f85a2ad9f52f71ce341ae/transformed/play-services-vision-20.0.0-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/3f7b93c7c8ab103b5b65d1a7bd6e3337/transformed/play-services-vision-image-label-18.0.4-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/cea486a8660ac5ad93571934026d8360/transformed/play-services-vision-common-19.1.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/051f46cfebb4c731cd06836b616b714b/transformed/play-services-clearcut-17.0.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/52664002138e297cec6e2f04be66f41e/transformed/play-services-phenotype-17.0.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/f3cf0dfaa9c9a7943c7d6b0b1665c9d3/transformed/firebase-ml-natural-language-smart-reply-18.0.8-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/7e848eea3404460b1dd4a88bcb589c0c/transformed/language-id-common-16.0.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/5e0d2582e1aaf80c667d5fb9f304d708/transformed/common-18.4.0-api.jar</arg>
-                <arg>$USER_HOME$/.gradle/caches/transforms-3/f0088acad874053245b19c6c6b73ea47/transformed/firebase-config-19.0.0-api.jar</arg>
-                <arg>$USER_HOME$/.gradle/caches/transforms-3/ae35eaa33bb89e9174407f31762e8230/transformed/firebase-iid-19.0.0-api.jar</arg>
-                <arg>$USER_HOME$/.gradle/caches/transforms-3/d67299aa88e120394e620d835d37374b/transformed/firebase-iid-interop-17.0.0-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/8cdaaf406b8bb8b993c2ac9fd3093ff1/transformed/play-services-auth-base-17.0.0-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/0bd0fdc5f9dd4d5f395d51d115ea8263/transformed/play-services-flags-17.0.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/4db414de830bb1a4b9e6e4dc29d08f88/transformed/play-services-base-18.0.1-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/7c7580cad8d040c581ce74d7d368895b/transformed/firebase-analytics-ktx-21.0.0-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/2bca1afcf71ae420c06111d7dfaf9af9/transformed/firebase-common-ktx-20.1.1-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/4c838558c9f9b796cc80197943eb9308/transformed/firebase-core-21.0.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/71595adfb72f463dc74ab3f3733fb096/transformed/firebase-analytics-21.0.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/4c6891a1de646b6380c918d21aee4e4e/transformed/play-services-measurement-api-21.0.0-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/763bcc9c459ddb9563fafc743afcdd85/transformed/firebase-config-21.1.0-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/3dff1779e42d808a965506aeafe889f6/transformed/firebase-iid-21.1.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/06907fccd7051753ecce1fa4db2e3d88/transformed/firebase-installations-17.0.1-api.jar</arg>
-                <arg>$USER_HOME$/.gradle/caches/transforms-3/d526596d3ac93f18ab0a6f21e2b2b8bb/transformed/firebase-abt-19.0.0-api.jar</arg>
-                <arg>$USER_HOME$/.gradle/caches/transforms-3/4e708f324786c177ab8dda2f3173c09d/transformed/firebase-common-20.1.0-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/31b8ea50c9dba5937a5ecf10371d25bc/transformed/firebase-abt-21.0.1-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/03303240e7a89fc0b28b7da2a65ebcd1/transformed/firebase-common-20.1.1-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/74944c78e1751bef0200a8dfda20af2c/transformed/firebase-installations-interop-17.0.1-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/bcd8b542dda91990b124a40c99e4f172/transformed/play-services-cloud-messaging-16.0.0-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/01c0529b8579a85076d9b9a1d043ee24/transformed/firebase-iid-interop-17.1.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/0a020bff9564c959ded66323038cee68/transformed/play-services-tasks-18.0.1-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/9c9acdbea4f3504fbe5bc30df328a79c/transformed/play-services-measurement-21.0.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/bf717f238b49aa06f5f383c57f863812/transformed/play-services-measurement-sdk-21.0.0-api.jar</arg>
@@ -100,10 +110,11 @@
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/c0d0a5cc71f8a026f33a5750fa03c4ed/transformed/lifecycle-runtime-2.5.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/5da697a357fae2faf7963bbf41e3ba79/transformed/firebase-components-17.0.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/368ea3fe40c759653c02269ef5a11a91/transformed/transport-backend-cct-2.3.3-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/8b3a60ed9c40d995b33427cfb6a31b46/transformed/firebase-encoders-json-17.1.0-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-encoders/17.0.0/26f52dc549c42575b155f8c720e84059ee600a85/firebase-encoders-17.0.0.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/2a19e286eb63faa305cba422ceec5c7d/transformed/transport-runtime-2.2.6-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/f1e0e78834760e82ec3579cb560d746b/transformed/transport-api-2.2.1-api.jar</arg>
-                <arg>$USER_HOME$/.gradle/caches/transforms-3/8b3a60ed9c40d995b33427cfb6a31b46/transformed/firebase-encoders-json-17.1.0-api.jar</arg>
-                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-encoders/16.1.0/267565db8531da1483692e27eb58f93ec894c78/firebase-encoders-16.1.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/ce20b48dcfe57bae691ab1af95e9f702/transformed/exifinterface-1.0.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/5f957d7a7a91fb587af31ab489666225/transformed/versionedparcelable-1.1.1-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.collection/collection/1.1.0/1f27220b47669781457de0d600849a5de0e89909/collection-1.1.0.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/8b2bd890638c6a278a26a73f5c33802d/transformed/lifecycle-livedata-2.0.0-api.jar</arg>
@@ -119,7 +130,6 @@
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/d2cf941567d985955e20927e2db00957/transformed/annotation-experimental-1.1.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/1f03490e53aae29b427f4704c87d49c5/transformed/constraintlayout-2.1.4-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-annotations/16.0.0/dbeae20d6c97b747b59ef47b6dcf770ba1a60fa6/firebase-annotations-16.0.0.jar</arg>
-                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.protobuf/protobuf-lite/3.0.1/59b5b9c6e1a3054696d23492f888c1f8b583f5fc/protobuf-lite-3.0.1.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.0.0/10924c16dba25791695468206d4bd9428d7fe8ae/okhttp-3.0.0.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar</arg>
@@ -160,7 +170,9 @@
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../app/build/generated/aidl_source_output_dir/debug/out" />
-    <content url="file://$MODULE_DIR$/../../../app/build/generated/ap_generated_sources/debug/out" />
+    <content url="file://$MODULE_DIR$/../../../app/build/generated/ap_generated_sources/debug/out">
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/build/generated/ap_generated_sources/debug/out" isTestSource="false" generated="true" />
+    </content>
     <content url="file://$MODULE_DIR$/../../../app/build/generated/renderscript_source_output_dir/debug/out" />
     <content url="file://$MODULE_DIR$/../../../app/build/generated/res/google-services/debug">
       <sourceFolder url="file://$MODULE_DIR$/../../../app/build/generated/res/google-services/debug" type="java-resource" />
@@ -187,13 +199,12 @@
     <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.6.21" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.6.21" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains:annotations:13.0" level="project" />
-    <orderEntry type="library" name="Gradle: com.google.firebase:firebase-encoders:16.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.firebase:firebase-encoders:17.0.0" level="project" />
     <orderEntry type="library" name="Gradle: androidx.collection:collection:1.1.0" level="project" />
     <orderEntry type="library" name="Gradle: androidx.arch.core:core-common:2.1.0" level="project" />
     <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-common:2.5.0" level="project" />
     <orderEntry type="library" name="Gradle: androidx.annotation:annotation:1.3.0" level="project" />
     <orderEntry type="library" name="Gradle: com.google.firebase:firebase-annotations:16.0.0" level="project" />
-    <orderEntry type="library" name="Gradle: com.google.protobuf:protobuf-lite:3.0.1" level="project" />
     <orderEntry type="library" name="Gradle: javax.inject:javax.inject:1" level="project" />
     <orderEntry type="library" name="Gradle: com.squareup.okhttp3:okhttp:3.0.0" level="project" />
     <orderEntry type="library" name="Gradle: com.squareup.okio:okio:1.6.0" level="project" />
@@ -207,24 +218,33 @@
     <orderEntry type="library" name="Gradle: com.google.firebase:firebase-ml-natural-language:22.0.1@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.mlkit:translate:17.0.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.mlkit:language-id:17.0.4@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.firebase:firebase-ml-vision:24.1.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.firebase:firebase-ml-natural-language-translate:22.0.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.firebase:firebase-ml-common:22.1.2@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-vision:20.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-vision-image-label:18.0.4@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-vision-common:19.1.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-clearcut:17.0.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-phenotype:17.0.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.firebase:firebase-ml-natural-language-smart-reply:18.0.8@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.mlkit:language-id-common:16.0.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.mlkit:common:18.4.0@aar" level="project" />
-    <orderEntry type="library" name="Gradle: com.google.firebase:firebase-config:19.0.0@aar" level="project" />
-    <orderEntry type="library" name="Gradle: com.google.firebase:firebase-iid:19.0.0@aar" level="project" />
-    <orderEntry type="library" name="Gradle: com.google.firebase:firebase-iid-interop:17.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-auth-base:17.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-flags:17.0.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-base:18.0.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.firebase:firebase-analytics-ktx:21.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.firebase:firebase-common-ktx:20.1.1@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.firebase:firebase-core:21.0.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.firebase:firebase-analytics:21.0.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-measurement-api:21.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.firebase:firebase-config:21.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.firebase:firebase-iid:21.1.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.firebase:firebase-installations:17.0.1@aar" level="project" />
-    <orderEntry type="library" name="Gradle: com.google.firebase:firebase-abt:19.0.0@aar" level="project" />
-    <orderEntry type="library" name="Gradle: com.google.firebase:firebase-common:20.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.firebase:firebase-abt:21.0.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.firebase:firebase-common:20.1.1@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.firebase:firebase-installations-interop:17.0.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-cloud-messaging:16.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.firebase:firebase-iid-interop:17.1.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-tasks:18.0.1@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-measurement:21.0.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-measurement-sdk:21.0.0@aar" level="project" />
@@ -276,9 +296,10 @@
     <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-runtime:2.5.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.firebase:firebase-components:17.0.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.datatransport:transport-backend-cct:2.3.3@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.firebase:firebase-encoders-json:17.1.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.datatransport:transport-runtime:2.2.6@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.datatransport:transport-api:2.2.1@aar" level="project" />
-    <orderEntry type="library" name="Gradle: com.google.firebase:firebase-encoders-json:17.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.exifinterface:exifinterface:1.0.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.versionedparcelable:versionedparcelable:1.1.1@aar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-livedata:2.0.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.arch.core:core-runtime:2.1.0@aar" level="project" />
